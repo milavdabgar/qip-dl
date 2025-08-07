@@ -1,0 +1,4 @@
+(a) Build a Decision Tree Classifier for the Car Evaluation dataset. Measure Accuracy, precision, recall, and F1 score.
+(b) Compare the performance of Decision Tree and Naive Bayes Classifier for above dataset in terms of above mentioned parameters.
+
+Write conclusion

@@ -1,0 +1,2 @@
+(a) Build a Multiple regression model for the 50_Startups.csv dataset. Obtain regression score
+(b) Build Polynomial regression model for Ice_cream selling data for polynomial regression.csv dataset and obtain necessary score. Plot model with different degree, i.e., n=2,3,4 and 5.

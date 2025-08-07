@@ -1,0 +1,5 @@
+1. Import car_evaluation.csv data
+2. Perform necessary cleaning and other preprocessing parts
+3. Apply NB classifier for categorical data and obtain the accuracy
+4. Obtain accuracy with different splitting ratio.
+5. Submit final file

@@ -1,0 +1,4 @@
+Perform following on the car evaluation dataset..
+
+(a) Obtain the Accuracy score and other quantitative parameters by applying the Random Forest technique.
+(b) Compare the output of part (a) with the Decision Tree and Naive Bayes Classifiers.

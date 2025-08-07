@@ -1,0 +1,3 @@
+(a) Build a KNN classifier for the Diabetespred.csv dataset and obtain accuracy and other quantitative parameters.
+
+(b) Observe and note the accuracy for different values of K, i.e., K=5, 7, 9, 11, 15, Note accuracy obtained in each case.

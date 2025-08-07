@@ -1,0 +1,7 @@
+1. Import gender_classification_v7.csv dataset
+2. Apply feature engineering to the dataset
+3. Perform the following:
+(a) Build NB classifier for categorical features only and obtain accuracy, and other parameters
+(b) Build NM classifier for cont. features only and obtain Accuracy, and other parameters
+(c) Build NB classifier for all features and obtain Accuracy, and other parameters
+4. Draw conclusion

@@ -1,0 +1,2 @@
+(a) Write Linear regression code for Position_Salaries.csv dataset. Plot the model with scatter diagram.
+(b) Estimate the regression score
