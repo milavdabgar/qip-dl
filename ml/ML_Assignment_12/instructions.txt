@@ -1,0 +1,1 @@
+Build a Multiple regression model for USA_Housing for the multiple regression.csv dataset and obtain an accuracy score. drop the 'Address' feature as it's meaning less here. 
