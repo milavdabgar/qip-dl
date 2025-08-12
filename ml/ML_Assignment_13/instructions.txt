@@ -1,0 +1,1 @@
+Build a Logistic Regression algorithm for the Social_Network_Ads.csv dataset and obtain a confusion matrix along with an accuracy score.
